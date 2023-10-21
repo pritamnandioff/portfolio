@@ -168,11 +168,11 @@ export const Bio = {
         //   image:
         //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
         // },
-        // {
-        //   name: "Netlify",
-        //   image:
-        //     "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
-        // },
+        {
+          name: "Netlify",
+          image:
+            "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+        },
         {
           name: "VS Code",
           image:
