@@ -52,5 +52,9 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
-  }
+  },
+  "description": "<<<<<<< HEAD # Getting Started with Create React App",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
